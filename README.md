@@ -16,6 +16,9 @@ of the datasets to validate project P13454 Molecular Dynamics Simulations
 ## Demonstration
 https://github.com/LoboFernandes/code/blob/master/CDD1.ipynb 
 
+## Data Availability
+The following information was supplied regarding data availability:
+The data set has been supplied as Supplemental Dataset.
 
 
 ## Feedback
