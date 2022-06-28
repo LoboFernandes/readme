@@ -1,5 +1,5 @@
 
-# Complementary Research to FAH project on Oral Non-Covalent SARS-CoV-2 Main Protease Inhibitor Therapeutics
+# Complementary Computational Drug Discovery Research to FAH project on Oral Non-Covalent SARS-CoV-2 Main Protease Inhibitor Therapeutics
 
 It was performed bioactivity data collection and data preprocess 
 of the datasets to validate Molecular Dynamics Simulations from project P13454 of FAH work unit server
@@ -14,8 +14,10 @@ of the datasets to validate Molecular Dynamics Simulations from project P13454 o
  -  https://doi.org/10.1101/2020.10.29.339317
  -  https://foldingathome.org/diseases/infectious-diseases/covid-19
  
+ 
 ## Demonstration
 https://github.com/LoboFernandes/code/blob/master/CDD1.ipynb 
+
 
 ## Data Availability
 The following information was supplied regarding data availability:
