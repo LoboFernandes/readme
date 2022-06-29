@@ -4,7 +4,7 @@
 It was performed bioactivity data collection and data preprocess 
 of the datasets to validate Molecular Dynamics Simulations from project P13454 of FAH work unit server
 
-## Author
+## Contributor
 
 - FERNANDES,E.L.
 
