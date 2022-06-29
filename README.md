@@ -8,16 +8,18 @@ of the datasets to validate Molecular Dynamics Simulations from project P13454 o
 
 - FERNANDES,E.L.
 
-
 ## Reference
 
  -  https://doi.org/10.1101/2020.10.29.339317
  -  https://foldingathome.org/diseases/infectious-diseases/covid-19
  
  
-## Demonstration
+## Datasets
  -  https://github.com/LoboFernandes/code/blob/master/CDD1.ipynb
- -  https://www.chemotion-repository.net/mydb/scollection/4268/sample/85198
+ 
+ 
+## Lead Repository
+ -  https://www.chemotion-repository.net/mydb/scollection/4268/sample/85198 
 
 
 ## Data Availability
