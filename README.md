@@ -2,7 +2,7 @@
 # Complementary Computational Drug Discovery Research to FAH project on Oral Non-Covalent SARS-CoV-2 Main Protease Inhibitor Therapeutics
 
 It was performed bioactivity data collection and data preprocess 
-of the datasets to validate Molecular Dynamics Simulations from project P13454 of FAH work unit server
+of the datasets to validate Molecular Dynamics Simulations from project P13454 of FAH work unit.
 
 ## Contributor
 
@@ -20,11 +20,6 @@ of the datasets to validate Molecular Dynamics Simulations from project P13454 o
  
 ## Lead Repository
  -  https://www.chemotion-repository.net/mydb/scollection/4268/sample/85198 
-
-
-## Data Availability
-The following information was supplied regarding data availability:
-The data set has been supplied as Supplemental Dataset.
 
 
 ## Feedback
