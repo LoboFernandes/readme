@@ -25,7 +25,7 @@ of the datasets to validate Molecular Dynamics Simulations from project P13454 o
  -  https://github.com/LoboFernandes/readme/blob/main/docked-molecules.png
  
  
-## Lead Repository
+## Lead Compound Repository
  -  https://www.chemotion-repository.net/mydb/scollection/4268/sample/85198 
 
 
