@@ -22,7 +22,7 @@ of the datasets to validate Molecular Dynamics Simulations from project P13454 o
 
 ## Hit Compounds
  -  https://fragalysis.diamond.ac.uk/viewer/react/projects/1808/1420
- -  https://tinyurl.com/4dhcpv38
+ -  https://tinyurl.com/24e2sm9e
  -  https://github.com/LoboFernandes/readme/blob/main/docked-molecules.png
  
  
