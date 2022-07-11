@@ -2,7 +2,7 @@
 # Complementary Computational Drug Discovery Research to FAH project on Oral Non-Covalent SARS-CoV-2 Main Protease Inhibitor Therapeutics
 
 It was performed bioactivity data collection and data preprocess 
-of the datasets to validate Molecular Dynamics Simulations from project P13454 of FAH work unit that targets Mpro. Datasets were compiled from efforts to develop non-covalent inhibitors of the main proteases of human coronaviruses e.g. MERS and SARS-CoV-1, resulting in only non-covalent pharmacophores (scaffolds) that has been used to derive molecular series for optimization. 
+of the datasets to validate Molecular Dynamics Simulations from project P13454 of FAH work unit that targets Mpro. Datasets were compiled from efforts to develop non-covalent inhibitors of the main proteases of human coronaviruses e.g. MERS and SARS-CoV-1, resulting in only non-covalent pharmacophores (scaffolds) that have been used to derive molecular series for optimization. 
 
 ## Contributor
 
